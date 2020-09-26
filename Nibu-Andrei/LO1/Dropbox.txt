@@ -1,0 +1,7 @@
+"Software as a service" este un model de licenta software in care software-ul este licentiat pe baza de abonament.
+Exemplul pe care l-am ales eu este Dropbox.
+Dropbox este un serviciu de găzduire (hosting) a fișierelor operat de Dropbox, Inc.
+Dropbox este un serviciu de cloud care oferă spațiu de stocare al datelor, servicii de sincronizare a datelor și software de tip client. 
+Dropbox permite utilizatorului să-și creeze un dosar special pe fiecare dintre calculatoarele lui, pe care Dropbox le sincronizează, astfel încât se creează impresia că același dosar (cu aceleași fișiere) apare pe fiecare dintre calculatoarele utilizatorului. 
+Fișierele salvate în acest dosar sunt accesibile și printr-o interfață web, dar și prin intermediul aplicațiilor de pe telefoanele mobile.
+Dropbox are software client pentru diferite sisteme de operare cum ar fi Microsoft Windows, Mac OS X, Linux, Android, iOS, BlackBerry, dar și Symbian, Windows Phone și MeeGo.
